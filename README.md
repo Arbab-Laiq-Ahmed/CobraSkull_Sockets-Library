@@ -1,0 +1,1 @@
+This Library "CobraSkull_Sockets Library" Is Developed By Mr. Arbab Laiq Ahmed. This LLibrary Is Written Specifically By Keeping Simplicity In View. It Is A Very Basic Library Providing Several Functions. But Still It Is Better For Basic P2P Networks. Thanx Guys, Hope Y'all Will Find It Helpful.
